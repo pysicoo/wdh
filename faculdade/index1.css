@@ -1,0 +1,65 @@
+body {
+    background-color: red ;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(img/Rosa\ 🌹\ Wallpaper.jpg);
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 26px;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+    transition: .20s;
+}
+
+a:hover{
+    color: red;
+}
+
+header img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 10px solid black;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: gray;
+}
+
+footer img {
+    width: 20px;
+    height: 20px;   
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 30px;
+}
+
+footer p {
+    margin-top: 5px;
+}
+
+h3 {
+    color: red;
+}
+
+span {
+    color: red;
+}
